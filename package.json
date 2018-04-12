@@ -1,0 +1,25 @@
+{
+  "name": "fb_homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leejulee/fb_homework.git"
+  },
+  "author": "leoli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leejulee/fb_homework/issues"
+  },
+  "homepage": "https://github.com/leejulee/fb_homework#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "mysql2": "^1.5.3",
+    "request": "^2.85.0",
+    "sequelize": "^4.37.6"
+  }
+}
