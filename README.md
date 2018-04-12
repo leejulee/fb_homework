@@ -1,5 +1,5 @@
 # fb_homework
-- download run `node init`
+- download run `npm install`
 
 ## get facebook user id & name
 - `node adduser_await.js`
